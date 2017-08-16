@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="start_game">Start Game</string>
+    <string name="correct">Correct!!!</string>
+    <string name="wrong">Wrong answer</string>
+    <string name="hello">Hello</string>
+    <string name="bird">bird</string>
+    <string name="door">door</string>
+    <string name="tea">Tea</string>
+    <string name="questionText">Which thing is alive?</string>
+    <string name="title_activity_next_level">NextLevel</string>
+    <string name="question_1_level2">1) Which is the national flower of Ireland?</string>
+    <string name="question_2_level2">2) What is the type of Government in Swaziland?</string>
+    <string name="question_3_level2">3) Which of the following countries does not have a border with Switzerland?</string>
+    <string name="aristocracy">Aristocracy</string>
+    <string name="theocracy">Theocracy</string>
+    <string name="anarchy">Anarchy</string>
+    <string name="belgium">Belgium</string>
+    <string name="france">France</string>
+    <string name="italy">Italy</string>
+    <string name="germany">Germany</string>
+    <string name="Congratulation">"Congratulations you have scored "</string>
+    <string name="points">" points."</string>
+    <string name="scored">"You have scored "</string>
+    <string name="Next_time">" points. Next time will be better"</string>
+    <string name="wolga_river">Wolga river</string>
+    <string name="tiber">Tiber</string>
+    <string name="sahara">Sahara</string>
+    <string name="sonora">Sonora</string>
+    <string name="submit_your_answers">submit your answers</string>
+    <string name="start_the_quiz">Start the quiz</string>
+    <string name="next_level">Next Level</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+    <string name="question_4_level2">Which river is flowing through Rome?</string>
+
+</resources>
